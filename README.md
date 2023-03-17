@@ -120,3 +120,5 @@ getter and/or setter methods.
     increases by 1) and the method returns `"blah blah sun blah rain"`.
   - If the topic is not politics or weather, their happiness points don't change
     and the method returns `"blah blah blah blah blah"`.
+
+https://github.com/G3o-R/phase-3-ruby-oo-self-person-lab
